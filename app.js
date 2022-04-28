@@ -1,7 +1,6 @@
-/*----Packages--*/
+/*----Modules--*/
 import prompt from 'prompt-sync';
 const input = prompt();
-/*----Modules--*/
 
 /* clear the console */
 console.clear()
